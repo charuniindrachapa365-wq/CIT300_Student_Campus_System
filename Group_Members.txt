@@ -1,0 +1,37 @@
+CIT300 - Graded Practical Assignment 1
+
+Project:
+University Student Record and
+Campus Route Management System
+
+GROUP MEMBERS
+
+Member 1
+Name:kavindu
+Student ID:23DA2 - 0259
+Responsibility:
+Individual Contribution:
+
+Member 2
+Name:salinda
+Student ID:23DA2 - 0200
+Responsibility:
+Individual Contribution:
+
+Member 3
+Name:tharusha
+Student ID:23DA2 - 0145
+Responsibility:
+Individual Contribution:
+
+Member 4
+Name:shan
+Student ID:23Da2 - 0300
+Responsibility:
+Individual Contribution:
+
+Member 5
+Name:Rashmi
+Student ID:23Da2 - 0236
+Responsibility:
+Individual Contribution:
